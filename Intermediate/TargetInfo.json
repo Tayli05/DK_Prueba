@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DK_Prueba",
+			"Path": "E:\\AUX_SIS457\\DK_Prueba\\Source\\DK_Prueba.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DK_PruebaEditor",
+			"Path": "E:\\AUX_SIS457\\DK_Prueba\\Source\\DK_PruebaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

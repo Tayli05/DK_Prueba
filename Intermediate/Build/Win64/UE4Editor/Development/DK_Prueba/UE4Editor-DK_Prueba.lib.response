@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DK_Prueba.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\DK_PruebaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Development\DK_Prueba\DK_Prueba.cpp.obj"
+"E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Development\DK_Prueba\DK_PruebaCharacter.cpp.obj"
+"E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Development\DK_Prueba\DK_PruebaGameMode.cpp.obj"
+"E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Development\DK_Prueba\DK_Prueba.init.gen.cpp.obj"
+"E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Development\DK_Prueba\DK_PruebaCharacter.gen.cpp.obj"
+"E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Development\DK_Prueba\DK_PruebaGameMode.gen.cpp.obj"
+"E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Development\DK_Prueba\Default.rc2.res"
+/OUT:"E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Development\DK_Prueba\UE4Editor-DK_Prueba.lib"

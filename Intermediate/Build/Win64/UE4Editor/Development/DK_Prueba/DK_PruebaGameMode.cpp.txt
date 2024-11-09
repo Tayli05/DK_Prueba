@@ -1,0 +1,15 @@
+E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Development\DK_Prueba\Definitions.DK_Prueba.h
+E:\AUX_SIS457\DK_Prueba\Source\DK_Prueba\DK_PruebaGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Inc\DK_Prueba\DK_PruebaGameMode.generated.h
+E:\AUX_SIS457\DK_Prueba\Source\DK_Prueba\DK_PruebaCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\AUX_SIS457\DK_Prueba\Intermediate\Build\Win64\UE4Editor\Inc\DK_Prueba\DK_PruebaCharacter.generated.h

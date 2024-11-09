@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\AUX_SIS457\\DK_Prueba\\Source\\DK_Prueba\\DK_Prueba.Build.cs",
+		"E:\\AUX_SIS457\\DK_Prueba\\Source\\DK_Prueba.Target.cs",
+		"E:\\AUX_SIS457\\DK_Prueba\\Source\\DK_PruebaEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

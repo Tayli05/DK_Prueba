@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DK_Prueba.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{50B2DE93-6FC9-406E-8102-13AB4B09ECDC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DK_Prueba.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DK_PruebaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{40F4A17F-6C95-4963-BE05-25FA116F070A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DK_Prueba">
+      <UniqueIdentifier>{1E9813C2-AD60-4DE5-9CED-8E847DD830EA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DK_Prueba\DK_Prueba.Build.cs">
+      <Filter>Source\DK_Prueba</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DK_Prueba\DK_Prueba.cpp">
+      <Filter>Source\DK_Prueba</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DK_Prueba\DK_Prueba.h">
+      <Filter>Source\DK_Prueba</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DK_Prueba\DK_PruebaCharacter.cpp">
+      <Filter>Source\DK_Prueba</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DK_Prueba\DK_PruebaCharacter.h">
+      <Filter>Source\DK_Prueba</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DK_Prueba\DK_PruebaGameMode.cpp">
+      <Filter>Source\DK_Prueba</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DK_Prueba\DK_PruebaGameMode.h">
+      <Filter>Source\DK_Prueba</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
